@@ -1,0 +1,18 @@
+[
+  {
+    "idCar": "1",
+    "carModel": "Kia Sorento 1.6 T-GDi AT6 Hybrid ComfortLine 5zits 5d 169kW"
+  },
+  {
+    "idCar": "2",
+    "carModel": "Kia Sorento 1.6 T-GDi AT6 Hybrid DynamicLine 7zits 5d 169kW"
+  },
+  {
+    "idCar": "3",
+    "carModel": "Kia Sorento 1.6 T-GDi AT6 Hybrid DynamicPlusLine 7z 5d 169kW"
+  },
+  {
+    "idCar": "4",
+    "carModel": "Kia Sorento 1.6 T-GDi AT6 PHEV 4WD Edition 5d 195kW"
+  }
+]
